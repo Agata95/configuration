@@ -1,0 +1,11 @@
+# musi tu być format .yml, z tego pliku wygeneruje się Json
+config:
+  tego:
+    serwera: jest taki sobie
+
+a:
+  wszystkie:
+    inne: 15
+    moga: 10
+    miec: 5
+korzen: korzen konfiguracji
