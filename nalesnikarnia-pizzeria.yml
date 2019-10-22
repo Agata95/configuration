@@ -1,3 +1,9 @@
+# nalesnikaria-pizzeria -> po myslniku dodajemy konfiguracje specyficzna:
+# http://localhost:8002/nalesnikarnia/pizzeria,
+# http://localhost:8002/nalesnikarnia/deafult -> konfiguracja domyślna
+# można stosować dla np. rozdzielczości monitora używanego sprzętu, deafult będzie rozdzielczością domyślną
+# zaś każda inna będzie dla szczególnych przypadków
+
 config:
   tego:
     serwera: jestem sobie pizzeria
